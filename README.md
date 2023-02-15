@@ -17,11 +17,13 @@ This project enables the user to perform various stock taking tasks including:
 To install this Python package from github, you will need to clone the repository.
 From your command line type in the following:
 
-**_git clone https://github.com/Buck230473/byb_project.git_**
+>       https://github.com/Buck230473/byb_project.git
+
 
 Then just run the setup.py file from that directory by typing the following into your command line:
 
-**_sudo python setup.py install_**
+>       sudo python setup.py install
+
 
 ## Usage
 Upon opening the program, the user will be presented with a menu showing various options. The user is then prompted to select one of the options and depending on the function required. 
